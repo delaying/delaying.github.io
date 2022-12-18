@@ -12,7 +12,7 @@ baseurl: ''
 # otherwise, the layout language will use the default value of 'en'.
 lang: ko
 
-#내용 push해도 바로 업데이트 안되는 문제때문에 작성
+# 내용 push해도 바로 업데이트 안되는 문제때문에 작성
 future: true
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: light
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -80,7 +80,7 @@ theme_mode: dark
 img_cdn: 'https://chirpy-img.netlify.app'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/favicons/profile.png'
+avatar: '/assets/img/'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
