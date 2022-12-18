@@ -2,7 +2,7 @@
 title: GitHub Pages blog jekyll theme설정과 build 에러
 author: delaying
 date: 2022-12-17 22:38:00 +0900
-categories: [Develop, GitHub Pages]
+categories: [Develop, Gitblog]
 tags: [github,blog,page]
 published: true
 ---
