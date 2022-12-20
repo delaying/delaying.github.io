@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: delaying's space                      # the main title
+title: delaying's dev log         # the main title
 
 tagline: front-end developer    # it will display as the sub-title
 
@@ -80,7 +80,7 @@ theme_mode: light
 img_cdn: 'https://chirpy-img.netlify.app'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/profile.png'
+avatar: https://user-images.githubusercontent.com/72879145/208675804-0964b625-695a-45cf-99a2-a7f4e0b63528.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
