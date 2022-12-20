@@ -132,7 +132,8 @@ MacOS 기반으로 작성되었다.
   ➜  ~ source ~/.zshrc
   ```
 
-  그리고 다시 bundler설치했는데 잘 설치되었다!
+  그리고 프로젝트 터미널에서 bundle install 해주니까 드디어 에러가 해결되었다.
+
   ```
   ➜  ~ gem install bundler
   Fetching bundler-2.3.26.gem
@@ -143,7 +144,7 @@ MacOS 기반으로 작성되었다.
   1 gem installed
   ```
 
-  그리고 프로젝트 터미널에서 bundle install 해주니까 드디어 에러가 해결되었다.
+  
 
   성공 후 
   ```
