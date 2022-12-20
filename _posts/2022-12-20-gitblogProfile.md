@@ -16,7 +16,7 @@ local은 답이 아닌것같아 많이 찾아봤는데
 링크화 시켜서 넣으니까 해결이 되었다.
 
 다음 블로그를 참고했다
-[`여기`]('https://hyeonjiwon.github.io/blog/markdown_img/')
+[`여기`](https://hyeonjiwon.github.io/blog/markdown_img/)
 
 
 
