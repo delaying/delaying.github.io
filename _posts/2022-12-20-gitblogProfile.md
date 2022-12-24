@@ -3,7 +3,7 @@ title: Gitblog 프로필과 테마 수정하기
 author: delaying
 date: 2022-12-20 10:10:00 +0900
 categories: [Develop, Gitblog]
-tags: [github,blog,page,profile]
+tags: [github,blog]
 published: true
 ---
 
