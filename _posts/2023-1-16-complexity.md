@@ -46,7 +46,6 @@ O(1) -> O(logn) -> O(n) -> O(nlogn) -> O(n^2) -> O(2^n) -> O(n!) 순서대로 �
 ## 자료구조 시간 복잡도
 시간 복잡도를 생각할 때 평균, 그리고 최약의 시간 복잡도를 고려해야한다.
 
-
 Big-O 표기법별 대표 알고리즘이다.
 - O(1): Operation push and pop on Stack
 - O(log n): Binary Tree
