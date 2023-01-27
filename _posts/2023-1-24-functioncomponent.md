@@ -33,6 +33,8 @@ React 버전 16.8 부터 Hook이 추가되었다.<br/>
     - class 키워드를 작성해야함
     - Component 상속을 받아야함
     - render() 메소드가 있어야함
+    - state, lifeCycle 관련 기능 사용
+    - 함수형보다 메모리 자원을 더 사용함
 
 
 - 함수형 컴포넌트
@@ -46,6 +48,10 @@ React 버전 16.8 부터 Hook이 추가되었다.<br/>
 
     export default App;
     ```
+    - state, lifeCycle 관련 기능 사용불가능한데 hook으로 해결됨
+    - 클래스형보다 메모리 자원을 덜 사용함
+    - 컴포넌트 선언이 편함
+    
 
 ### state 사용방법
 - 클래스형 컴포넌트
