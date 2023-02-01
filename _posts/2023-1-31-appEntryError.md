@@ -1,5 +1,5 @@
 ---
-title: Error - Unable to resolve module ./node_modules/expo/AppEntry from ""
+title: Error - Unable to resolve module ./node_modules/expo/AppEntry from ''
 author: delaying
 date: 2023-1-31 10:42:00 +0900
 categories: [Develop, TrobleShooting]
