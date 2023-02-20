@@ -154,7 +154,7 @@ import ScreenC from "./ScreenC";
 
 export default ({ navigation }) => {
   return (
-    <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
+    <View style={\{ flex: 1, alignItems: "center", justifyContent: "center" }\}>
       <Text>ScreenA</Text>
 
       <Button
@@ -177,7 +177,7 @@ import { Button, Text, View } from "react-native";
 
 export default ({ route }) => {
   return (
-    <View style={{ flex: 1, justifyContent: "center", alignContent: "center" }}>
+    <View style={\{ flex: 1, justifyContent: "center", alignContent: "center" }\}>
       <Text>B스크린 A에서받은값{route.params.value}</Text>
       <Button
         title="뒤로"
